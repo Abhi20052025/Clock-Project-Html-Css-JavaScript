@@ -25,7 +25,7 @@ JavaScript (ES6) – Logic and time functionality
 
 Download or clone the repository
 
-git clone https://github.com/yourusername/digital-clock.git
+git clone https://github.com/Abhi20052025/Clock-Project-Html-Css-JavaScript
 
 
 Open the index.html file in your browser
